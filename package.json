@@ -1,6 +1,6 @@
 {
   "name": "@plumise/core",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "TypeScript SDK for interacting with the Plumise AI-native blockchain",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -13,13 +13,23 @@
       "require": "./dist/index.cjs"
     }
   },
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "tsup",
     "dev": "tsup --watch",
     "typecheck": "tsc --noEmit"
   },
-  "keywords": ["plumise", "blockchain", "ai", "sdk", "viem", "ethereum", "plm"],
+  "keywords": [
+    "plumise",
+    "blockchain",
+    "ai",
+    "sdk",
+    "viem",
+    "ethereum",
+    "plm"
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",

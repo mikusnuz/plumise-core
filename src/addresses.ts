@@ -15,8 +15,8 @@ export const addresses = {
     EcosystemFund: '0x0000000000000000000000000000000000001002' as const,
     TeamVesting: '0x0000000000000000000000000000000000001003' as const,
     LiquidityDeployer: '0x0000000000000000000000000000000000001004' as const,
-    AgentRegistry: '0x0000000000000000000000000000000000000000' as const,
-    ChallengeManager: '0x0000000000000000000000000000000000000000' as const,
-    InferencePayment: '0x0000000000000000000000000000000000000000' as const,
+    AgentRegistry: '0xa803ee49a61e4c07cfaac79594fee98a76d41733' as const,
+    ChallengeManager: '0xc9cf64344d22f02f6cdb8e7b5349f30e09f9043c' as const,
+    InferencePayment: '0xa39f3019c5893ee654bfd08d92e55db6e0241277' as const,
   },
 } as const
