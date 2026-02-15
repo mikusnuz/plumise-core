@@ -10,7 +10,7 @@ export const plumise = defineChain({
   },
   rpcUrls: {
     default: {
-      http: ['https://node-1.plumise.com/rpc'],
+      http: ['https://plug.plumise.com/rpc'],
       webSocket: ['wss://node-1.plumise.com/ws'],
     },
   },
@@ -29,7 +29,7 @@ export const plumiseTestnet = defineChain({
   },
   rpcUrls: {
     default: {
-      http: ['https://node-1.plumise.com/testnet/rpc'],
+      http: ['https://plug.plumise.com/rpc/testnet'],
       webSocket: ['wss://node-1.plumise.com/testnet/ws'],
     },
   },
