@@ -55,8 +55,8 @@ import { plumise, plumiseTestnet } from '@plumise/core'
 
 | Chain | ID | RPC |
 |-------|-----|-----|
-| `plumise` | 41956 | `https://node-1.plumise.com/rpc` |
-| `plumiseTestnet` | 419561 | `https://node-1.plumise.com/testnet/rpc` |
+| `plumise` | 41956 | `https://plug.plumise.com/rpc` |
+| `plumiseTestnet` | 419561 | `https://plug.plumise.com/rpc/testnet` |
 
 ### Contract Addresses
 
