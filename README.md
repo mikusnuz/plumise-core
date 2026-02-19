@@ -1,5 +1,7 @@
 # @plumise/core
 
+[![npm version](https://img.shields.io/npm/v/@plumise%2Fcore)](https://www.npmjs.com/package/@plumise/core)
+
 TypeScript SDK for the [Plumise](https://plumise.com) AI-native blockchain.
 
 Provides chain definitions, contract ABIs, addresses, and utilities for building on Plumise.
